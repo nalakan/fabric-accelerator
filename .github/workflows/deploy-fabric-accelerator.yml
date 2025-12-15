@@ -7,8 +7,8 @@ env:
   FABRIC_CAPACITY_ADMIN_ID: b39c06fd-b073-4e8d-80ef-24c7380864fc
   RESOURCE_GROUP: Fabric_Acc_001
   WORKSPACE_NAME: FabricAccelerator
-  WORKSPACE_ADMIN_ID: b39c06fd-b073-4e8d-80ef-24c7380864fc
-  WORKSPACE_ADMIN_TYPE: user # valid values: user, group
+  WORKSPACE_ADMIN_ID: 0c9a6031-9a9b-474a-8b8a-cbbc5e73c77b
+  WORKSPACE_ADMIN_TYPE: group # valid values: user, group
   FABRIC_SQL_DB_NAME: controldb-fabric-accelerator
   BRONZE_LH: bronze_fabric_accelerator
   SILVER_LH: silver_fabric_accelerator
